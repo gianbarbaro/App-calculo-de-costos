@@ -1,0 +1,19 @@
+header {
+    background-color: dodgerblue;
+}
+
+.contenido {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formulario {
+    margin: 2rem 7rem;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.borrar {
+    margin-left: 1rem;
+}
